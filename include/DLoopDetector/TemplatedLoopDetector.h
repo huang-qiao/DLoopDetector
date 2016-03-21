@@ -15,7 +15,7 @@
 #include <fstream>
 #include <string>
 
-#include <opencv/cv.h>
+#include <opencv2/opencv.hpp>
 
 #include "TemplatedVocabulary.h"
 #include "TemplatedDatabase.h"

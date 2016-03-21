@@ -16,7 +16,7 @@
 #include <DUtilsCV/DUtilsCV.h> // defines macros CVXX
 
 // OpenCV
-#include <opencv/cv.h>
+#include <opencv2/opencv.hpp>
 #include <opencv/highgui.h>
 #if CV24
 #include <opencv2/nonfree/features2d.hpp>
